@@ -26,7 +26,5 @@ Here are my certificates of completed courses in Softuni.
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=megi223&show_icons=true&locale=en&layout=compact" alt="megi223" /></p>  
 
-<br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megi223&" alt="megi223" /></p>
 
