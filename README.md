@@ -3,7 +3,6 @@
 ### :pencil2: **About me** <br/>
 :smiley: I am Miglena, a passionate learner based in Sofia, Bulgaria. <br/>
 :woman_student:  I am pursuing a bachelor degree in Software Engineering at the Faculty of Mathematics and Informatics. <br/>
-:computer: I am interested in .NET and am currently working on a web app using Blazor. <br/>
 :mailbox: Contact me: miglena.d07@gmail.com <br/>
 
 ##
